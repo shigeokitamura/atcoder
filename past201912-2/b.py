@@ -1,3 +1,5 @@
+# https://atcoder.jp/contests/past201912-2/tasks/past201912_b
+
 N = int(input())
 
 A = [int(input()) for i in range(N)]
